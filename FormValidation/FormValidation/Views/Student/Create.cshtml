@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+@if (Model != null)
+{
+    <h4>@Model.Name</h4>
+    <h4>@Model.Username</h4>
+    <h4>@Model.Id</h4>
+    <h4>@Model.Dob</h4>
+    <h4>@Model.Email</h4>
+}
+
+<h2>Create</h2>
+<form method="post">
+    <input type="text" name="Name" value="@Model.Name" placeholder="Name" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Name")</span>
+    <input type="text" name="Username" value="@Model.Username" placeholder="Username" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Username")</span>
+    <input type="text" name="Id" value="@Model.Id" placeholder="Id XX-XXXXX-X" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Id")</span>
+    <input type="date" name="Dob" value="@(Model.Dob != DateTime.MinValue ? Model.Dob.ToString("yyyy-MM-dd") : "")" placeholder="Dob" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Dob")</span>
+    <input type="text" name="Email" value="@Model.Email" placeholder="Email" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Email")</span>
+
+    <br /><input type="submit" class="btn btn-primary" value="Create" />
+</form>

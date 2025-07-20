@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Index";
+    var student = TempData["student"];
+}
+
+<h2>Index</h2>
+
+@if (student != null)
+{
+    <div>
+        <h3>Student Details</h3>
+        <ul>
+            @foreach (var prop in student.GetType().GetProperties())
+            {
+                <li>
+                    <strong>@prop.Name:</strong> @prop.GetValue(student, null)
+                </li>
+            }
+        </ul>
+    </div>
+}
+else
+{
+    <p>No student data found.</p>
+}

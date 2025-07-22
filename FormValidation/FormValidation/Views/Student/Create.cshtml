@@ -6,62 +6,123 @@
 @*HttpRequestBase instance*@
 
 @*<h4>@Request["Name"]</h4>
-<h4>@Request["Username"]</h4>
-<h4>@Request["Id"]</h4>
-<h4>@Request["Dob"]</h4>
-<h4>@Request["Email"]</h4>
+    <h4>@Request["Username"]</h4>
+    <h4>@Request["Id"]</h4>
+    <h4>@Request["Dob"]</h4>
+    <h4>@Request["Email"]</h4>
 
-<h2>Create</h2>
-<form>
-    <input type="text" name="Name" placeholder="Name" class="form-control" />
-    <input type="text" name="Username" placeholder="Username" class="form-control" />
-    <input type="text" name="Id" placeholder="Id XX-XXXXX-X" class="form-control" />
-    <input type="date" name="Dob" class="form-control" />
-    <input type="email" name="Email" placeholder="Email" class="form-control" />
-    <input type="submit" class="btn btn-primary" value="Create" />
-</form>*@
+    <h2>Create</h2>
+    <form>
+        <input type="text" name="Name" placeholder="Name" class="form-control" />
+        <input type="text" name="Username" placeholder="Username" class="form-control" />
+        <input type="text" name="Id" placeholder="Id XX-XXXXX-X" class="form-control" />
+        <input type="date" name="Dob" class="form-control" />
+        <input type="email" name="Email" placeholder="Email" class="form-control" />
+        <input type="submit" class="btn btn-primary" value="Create" />
+    </form>*@
 
 @*FormCollection Object and Variable name Maping*@
 
 @*<h4>@ViewBag.Name</h4>
-    <h4>@ViewBag.Username</h4>
-    <h4>@ViewBag.Id</h4>
-    <h4>@ViewBag.Dob</h4>
-    <h4>@ViewBag.Email</h4>
+        <h4>@ViewBag.Username</h4>
+        <h4>@ViewBag.Id</h4>
+        <h4>@ViewBag.Dob</h4>
+        <h4>@ViewBag.Email</h4>
 
-<h2>Create</h2>
-<form method="post">
-    <input type="text" name="Name" placeholder="Name" class="form-control" />
-    <input type="text" name="Username" placeholder="Username" class="form-control" />
-    <input type="text" name="Id" placeholder="Id XX-XXXXX-X" class="form-control" />
-    <input type="date" name="Dob" class="form-control" />
-    <input type="email" name="Email" placeholder="Email" class="form-control" />
-    <input type="submit" class="btn btn-primary" value="Create" />
-</form>*@
+    <h2>Create</h2>
+    <form method="post">
+        <input type="text" name="Name" placeholder="Name" class="form-control" />
+        <input type="text" name="Username" placeholder="Username" class="form-control" />
+        <input type="text" name="Id" placeholder="Id XX-XXXXX-X" class="form-control" />
+        <input type="date" name="Dob" class="form-control" />
+        <input type="email" name="Email" placeholder="Email" class="form-control" />
+        <input type="submit" class="btn btn-primary" value="Create" />
+    </form>*@
 
 @*Model Binding*@
 
 @if (Model != null)
+{
+    <h4>@Model.Name</h4>
+    <h4>@Model.Username</h4>
+    <h4>@Model.Id</h4>
+    <h4>@Model.Dob</h4>
+    <h4>@Model.Email</h4>
+    <h4>@Model.Gender</h4>
+    <h4>@Model.Department</h4>
+    <h4>@(Model.Hobbies != null ? string.Join(", ", Model.Hobbies) : "No hobbies selected")</h4>
+}
+
+@{
+    bool CheckGender(string gender)
     {
-        <h4>@Model.Name</h4>
-        <h4>@Model.Username</h4>
-        <h4>@Model.Id</h4>
-        <h4>@Model.Dob</h4>
-        <h4>@Model.Email</h4>
+        if (Model.Gender != null && Model.Gender.Equals(gender)) return true;
+        return false;
     }
 
-<h2>Create</h2>
-    <form method="post">
-        <input type="text" name="Name" value="@Model.Name" placeholder="Name" class="form-control" />
-        <span class="text-danger">@Html.ValidationMessage("Name")</span>
-        <input type="text" name="Username" value="@Model.Username" placeholder="Username" class="form-control" />
-        <span class="text-danger">@Html.ValidationMessage("Username")</span>
-        <input type="text" name="Id" value="@Model.Id" placeholder="Id XX-XXXXX-X" class="form-control" />
-        <span class="text-danger">@Html.ValidationMessage("Id")</span>
-        <input type="date" name="Dob" value="@(Model.Dob != DateTime.MinValue ? Model.Dob.ToString("yyyy-MM-dd") : "")" placeholder="Dob" class="form-control" />
-        <span class="text-danger">@Html.ValidationMessage("Dob")</span>
-        <input type="text" name="Email" value="@Model.Email" placeholder="Email" class="form-control" />
-        <span class="text-danger">@Html.ValidationMessage("Email")</span>
+    bool SelectDepartment(string department)
+    {
+        if (Model.Department != null && Model.Department.Equals(department)) return true;
+        return false;
+    }
 
-        <br /><input type="submit" class="btn btn-primary" value="Create" />
-    </form>
+    bool CheckHobbies(string hobby)
+    {
+        if (Model.Hobbies != null)
+        {
+            foreach (var item in Model.Hobbies)
+            {
+                if (item.Equals(hobby))
+                {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+}
+
+
+<h2>Create</h2>
+<form method="post">
+    <input type="text" name="Name" value="@Model.Name" placeholder="Name" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Name")</span>
+    <input type="text" name="Username" value="@Model.Username" placeholder="Username" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Username")</span>
+    <input type="text" name="Id" value="@Model.Id" placeholder="Id XX-XXXXX-X" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Id")</span>
+    <input type="date" name="Dob" value="@(Model.Dob != DateTime.MinValue ? Model.Dob.ToString("yyyy-MM-dd") : "")" placeholder="Dob" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Dob")</span>
+    <input type="text" name="Email" value="@Model.Email" placeholder="Email" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Email")</span>
+    <br />
+    Gender:
+    <input type="radio" checked="@CheckGender("Male")" name="Gender" value="Male" /> Male
+    <input type="radio" checked="@CheckGender("Female")" name="Gender" value="Female" /> Male
+    <br />
+    <span class="text-danger">@Html.ValidationMessage("Gender")</span>
+    <br />
+
+    Department:
+    <select name="Department">
+        <option selected disabled>---Select---</option>
+        <option selected="@SelectDepartment("CSE")" value="CSE">CSE</option>
+        <option selected="@SelectDepartment("EEE")" value="EEE">EEE</option>
+        <option selected="@SelectDepartment("CoE")" value="CoE">CoE</option>
+    </select>
+    <br />
+    <span class="text-danger">@Html.ValidationMessage("Department")</span>
+    <br />
+
+    Hobbies:
+    <input type="checkbox" checked="@CheckHobbies("Sports")" name="Hobbies[]" value="Sports" />Sports
+    <input type="checkbox" checked="@CheckHobbies("Travelling")" name="Hobbies[]" value="Travelling" />Travelling
+    <input type="checkbox" checked="@CheckHobbies("Games")" name="Hobbies[]" value="Games" />Games
+    <input type="checkbox" checked="@CheckHobbies("Gardening")" name="Hobbies[]" value="Gardening" />Gardening
+    <br />
+    <span class="text-danger">@Html.ValidationMessage("Hobbies")</span>
+    <br />
+
+
+    <br /><input type="submit" class="btn btn-primary" value="Create" />
+</form>

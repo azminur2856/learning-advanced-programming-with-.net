@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\formvalidation\\formvalidation\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|solutionrelative:formvalidation\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\formvalidation\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|solutionrelative:formvalidation\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\formvalidation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|solutionrelative:formvalidation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\formvalidation\\formvalidation\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|solutionrelative:formvalidation\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\formvalidation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|solutionrelative:formvalidation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\formvalidation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|solutionrelative:formvalidation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F207C26-A71B-4249-816F-BA649BF576C5}|FormValidation\\FormValidation.csproj|C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\formvalidation\\validators\\aiubemailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,28 +46,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Views\\Student\\Create.cshtml",
-              "RelativeDocumentMoniker": "FormValidation\\Views\\Student\\Create.cshtml",
-              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Views\\Student\\Create.cshtml",
-              "RelativeToolTip": "FormValidation\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-20T06:40:24.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "FormValidation\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Controllers\\StudentController.cs",
               "RelativeToolTip": "FormValidation\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwDsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T06:24:43.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "FormValidation\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "FormValidation\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T07:44:21.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "FormValidation\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "FormValidation\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T06:40:24.421Z",
               "EditorCaption": ""
             },
             {
@@ -84,15 +97,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "FormValidation\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "FormValidation\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-20T07:44:21.967Z",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "FormValidation\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Models\\Student.cs",
+              "RelativeToolTip": "FormValidation\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:24:04.115Z",
               "EditorCaption": ""
             },
             {
@@ -106,19 +119,6 @@
               "ViewState": "AgIAABgAAAAAAAAAAAAYwBwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T07:28:21.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "FormValidation\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\FormValidation\\FormValidation\\Models\\Student.cs",
-              "RelativeToolTip": "FormValidation\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T06:24:04.115Z",
               "EditorCaption": ""
             }
           ]

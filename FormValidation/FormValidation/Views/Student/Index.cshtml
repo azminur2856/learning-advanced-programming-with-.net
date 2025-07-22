@@ -1,6 +1,6 @@
 ﻿@{
     ViewBag.Title = "Index";
-    var student = TempData["student"];
+    var student = TempData["student"] as Form_Submission.Models.Student;
 }
 
 <h2>Index</h2>
@@ -12,9 +12,24 @@
         <ul>
             @foreach (var prop in student.GetType().GetProperties())
             {
-                <li>
-                    <strong>@prop.Name:</strong> @prop.GetValue(student, null)
-                </li>
+                var value = prop.GetValue(student, null);
+                string displayValue;
+
+                if (value is System.Collections.IEnumerable enumerable && !(value is string))
+                {
+                    var items = new List<string>();
+                    foreach (var item in enumerable)
+                    {
+                        items.Add(item?.ToString());
+                    }
+                    displayValue = string.Join(", ", items);
+                }
+                else
+                {
+                    displayValue = value?.ToString();
+                }
+
+                <li><strong>@prop.Name:</strong> @displayValue</li>
             }
         </ul>
     </div>

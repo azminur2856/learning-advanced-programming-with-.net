@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\labtask_1\\labtask_1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|solutionrelative:labtask_1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\labtask_1\\labtask_1\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|solutionrelative:labtask_1\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\labtask_1\\labtask_1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|solutionrelative:labtask_1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\labtask_1\\labtask_1\\ef\\labtask_1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|solutionrelative:labtask_1\\ef\\labtask_1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\labtask_1\\labtask_1\\ef\\labtask_1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|solutionrelative:labtask_1\\ef\\labtask_1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\labtask_1\\labtask_1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|solutionrelative:labtask_1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\labtask_1\\labtask_1\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F3D6C3-258C-4672-8797-EB2F69438A0B}|LabTask_1\\LabTask_1.csproj|solutionrelative:labtask_1\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LabTask_1\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "LabTask_1\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T06:01:49.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabTask_1\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "LabTask_1\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T05:56:55.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabTask_1\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "LabTask_1\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T05:36:55.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabTask_1\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "LabTask_1\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T05:36:44.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LabTask_1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LabTask_1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:30:11.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LabTask_1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\EF\\LabTask_1.Context.cs",
+              "RelativeDocumentMoniker": "LabTask_1\\EF\\LabTask_1.Context.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\EF\\LabTask_1.Context.cs",
+              "RelativeToolTip": "LabTask_1\\EF\\LabTask_1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:29:02.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabTask_1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\EF\\LabTask_1.edmx",
+              "RelativeDocumentMoniker": "LabTask_1\\EF\\LabTask_1.edmx",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\LabTask_1\\LabTask_1\\EF\\LabTask_1.edmx [Diagram1]",
+              "RelativeToolTip": "LabTask_1\\EF\\LabTask_1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-07-26T05:27:45.456Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

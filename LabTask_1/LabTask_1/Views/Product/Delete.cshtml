@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure to delete @Model.Name with id @Model.Id ?</h3>
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <input type="submit" class="btn btn-danger" value="Yes" />
+    <a href="/product/index" class="btn btn-outline-secondary">No</a>
+</form>

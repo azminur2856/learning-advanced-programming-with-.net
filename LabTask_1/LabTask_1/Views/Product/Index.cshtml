@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<a href="/product/create">Create</a>
+<br />
+
+@if (Model.Count != 0)
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Qty</th>
+            <th>Description</th>
+            <th>Action</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Qty</td>
+                <td>@item.Description</td>
+                <td>
+                    <a href="/product/edit/@item.Id">Edit</a>
+                    <a class="text-danger" href="/product/delete/@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <h5 class="text-danger">No Product Found</h5>
+}

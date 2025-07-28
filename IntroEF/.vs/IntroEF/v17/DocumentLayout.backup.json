@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\introef\\introef\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\introef\\introef\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\introef\\introef\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\introef\\introef\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,16 +11,24 @@
       "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\introef\\introef\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\introef\\introef\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\introef\\introef\\ef\\introef.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\introef.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\introef\\introef\\ef\\introef.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\introef.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\introef\\introef\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\introef\\introef\\ef\\introef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\introef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\introef\\introef\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AFD75F8-FD13-4643-AE81-A0A2C8F0EA12}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,41 +54,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Views\\Student\\Delete.cshtml",
-              "RelativeDocumentMoniker": "IntroEF\\Views\\Student\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Views\\Student\\Delete.cshtml",
-              "RelativeToolTip": "IntroEF\\Views\\Student\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T15:24:46.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Views\\Student\\Edit.cshtml",
-              "RelativeDocumentMoniker": "IntroEF\\Views\\Student\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Views\\Student\\Edit.cshtml",
-              "RelativeToolTip": "IntroEF\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T15:15:44.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Views\\Student\\Create.cshtml",
-              "RelativeDocumentMoniker": "IntroEF\\Views\\Student\\Create.cshtml",
-              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Views\\Student\\Create.cshtml",
-              "RelativeToolTip": "IntroEF\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T15:14:37.932Z",
+              "DocumentIndex": 4,
+              "Title": "IntroEF.Context.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\EF\\IntroEF.Context.cs",
+              "RelativeDocumentMoniker": "IntroEF\\EF\\IntroEF.Context.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\EF\\IntroEF.Context.cs",
+              "RelativeToolTip": "IntroEF\\EF\\IntroEF.Context.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:22:17.768Z",
               "EditorCaption": ""
             },
             {
@@ -103,61 +73,75 @@
               "RelativeDocumentMoniker": "IntroEF\\Views\\Student\\Index.cshtml",
               "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "IntroEF\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T15:04:57.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "IntroEF\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "IntroEF\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAIA0wB4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T15:00:53.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IntroEF.Context.cs",
-              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\EF\\IntroEF.Context.cs",
-              "RelativeDocumentMoniker": "IntroEF\\EF\\IntroEF.Context.cs",
-              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\EF\\IntroEF.Context.cs",
-              "RelativeToolTip": "IntroEF\\EF\\IntroEF.Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:58:25.215Z",
+              "WhenOpened": "2025-07-28T16:19:02.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IntroEF.Context.tt",
-              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\EF\\IntroEF.Context.tt",
-              "RelativeDocumentMoniker": "IntroEF\\EF\\IntroEF.Context.tt",
-              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\EF\\IntroEF.Context.tt",
-              "RelativeToolTip": "IntroEF\\EF\\IntroEF.Context.tt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-23T14:58:18.589Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IntroEF\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "IntroEF\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T16:02:56.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IntroEF.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\EF\\IntroEF.edmx",
-              "RelativeDocumentMoniker": "IntroEF\\EF\\IntroEF.edmx",
-              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\EF\\IntroEF.edmx [Diagram1]",
-              "RelativeToolTip": "IntroEF\\EF\\IntroEF.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-07-23T14:57:15.609Z",
-              "EditorCaption": " [Diagram1]"
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroEF\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "IntroEF\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T15:46:18.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:34:34.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "IntroEF\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "IntroEF\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:33:52.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\IntroEF\\IntroEF\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:34:32.832Z",
+              "EditorCaption": ""
             }
           ]
         }

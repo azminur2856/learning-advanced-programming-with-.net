@@ -16,6 +16,7 @@
             <th>Name</th>
             <th>Dob</th>
             <th>Cgpa</th>
+            <th>Department</th>
             <th>Action</th>
         </tr>
         @foreach (var item in Model)
@@ -25,6 +26,7 @@
                 <td>@item.Name</td>
                 <td>@item.Dob</td>
                 <td>@item.Cgpa</td>
+                <td>@item.Department.Name</td>
                 <td>
                     <a href="/student/edit/@item.Id">Edit</a>
                     <a class="text-danger" href="/student/delete/@item.Id">Delete</a>

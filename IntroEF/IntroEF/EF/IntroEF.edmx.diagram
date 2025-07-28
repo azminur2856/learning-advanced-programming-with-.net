@@ -6,6 +6,8 @@
     <edmx:Diagrams>
       <Diagram DiagramId="7de8d691e4c049a0bdd5be7a557f11e0" Name="Diagram1">
         <EntityTypeShape EntityType="IntroEFModel.Student" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IntroEFModel.Department" Width="1.5" PointX="3.375" PointY="0.75" />
+        <AssociationConnector Association="IntroEFModel.FK_Students_Departments" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

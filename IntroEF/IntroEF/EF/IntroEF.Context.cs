@@ -18,6 +18,7 @@ namespace IntroEF.EF
         public IntroEFEntities()
             : base("name=IntroEFEntities")
         {
+            this.Configuration.LazyLoadingEnabled = false; // Disable lazy loading and enable eager loading
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
@@ -26,5 +27,6 @@ namespace IntroEF.EF
         }
     
         public virtual DbSet<Student> Students { get; set; }
+        public virtual DbSet<Department> Departments { get; set; }
     }
 }

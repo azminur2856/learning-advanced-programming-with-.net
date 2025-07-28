@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<a href="/department/create">Create</a>
+
+@if (Model.Count != 0)
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>
+                    <a href="/department/edit/@item.Id">Edit</a>
+                    <a href="/department/details/@item.Id">Details</a>
+                </td>
+            </tr>
+        }
+    </table>
+}
+
+else
+{
+    <h5 class="text-danger"> No Department Found</h5>
+}

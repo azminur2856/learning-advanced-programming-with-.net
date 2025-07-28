@@ -12,14 +12,18 @@ namespace IntroEF.EF
     using System;
     using System.Collections.Generic;
     
-    public partial class Student
+    public partial class Department
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public Department()
+        {
+            this.Students = new HashSet<Student>();
+        }
+    
         public int Id { get; set; }
         public string Name { get; set; }
-        public System.DateTime Dob { get; set; }
-        public double Cgpa { get; set; }
-        public int DeptId { get; set; }
     
-        public virtual Department Department { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Student> Students { get; set; }
     }
 }

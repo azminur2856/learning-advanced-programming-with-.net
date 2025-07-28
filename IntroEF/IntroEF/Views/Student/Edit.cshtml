@@ -4,6 +4,11 @@
 
 <h2>Edit</h2>
 
+@{
+    var student = Model?.Item1;
+    var departments = Model?.Item2;
+}
+
 @if (Model == null)
 {
     <div class="alert alert-danger">Student not found.</div>
@@ -11,9 +16,16 @@
 else
 {
     <form method="post">
-        <input type="text" class="form-control" value="@Model.Name" placeholder="Name" name="Name" />
-        <input type="date" class="form-control" value="@Model.Dob.ToString("yyyy-MM-dd")" placeholder="Dob" name="Dob" />
-        <input type="text" class="form-control" value="@Model.Cgpa" placeholder="Cgpa" name="Cgpa" />
+        <input type="text" class="form-control" value="@student.Name" placeholder="Name" name="Name" />
+        <input type="date" class="form-control" value="@student.Dob.ToString("yyyy-MM-dd")" placeholder="Dob" name="Dob" />
+        <input type="text" class="form-control" value="@student.Cgpa" placeholder="Cgpa" name="Cgpa" />
+        <select class="form-control" name="DeptId">
+            <option disabled>Select Department</option>
+            @foreach (var dept in departments)
+            {
+                <option value="@dept.Id" @(dept.Id == student.DeptId ? "selected" : "")>@dept.Name</option>
+            }
+        </select>
         <input type="submit" class="btn btn-primary" value="Edit" />
     </form>
 }

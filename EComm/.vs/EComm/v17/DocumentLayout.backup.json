@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\ecomm\\ecomm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|solutionrelative:ecomm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\ecomm\\ecomm\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|solutionrelative:ecomm\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\ecomm\\ecomm\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|solutionrelative:ecomm\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\ecomm\\ecomm\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|solutionrelative:ecomm\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\ecomm\\ecomm\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|solutionrelative:ecomm\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\ecomm\\ecomm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|solutionrelative:ecomm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\ecomm\\ecomm\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|solutionrelative:ecomm\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\ecomm\\ecomm\\views\\order\\showcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD077E28-1672-458A-A7AA-36A1BA7D4D3A}|EComm\\EComm.csproj|solutionrelative:ecomm\\views\\order\\showcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EComm\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EComm\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T19:35:05.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EComm\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EComm\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:26:03.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "EComm\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "EComm\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:23:09.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Web.config",
+              "RelativeDocumentMoniker": "EComm\\Web.config",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Web.config",
+              "RelativeToolTip": "EComm\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-20T19:21:39.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "EComm\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "EComm\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T19:03:46.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Views\\Order\\ShowCart.cshtml",
+              "RelativeDocumentMoniker": "EComm\\Views\\Order\\ShowCart.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Views\\Order\\ShowCart.cshtml",
+              "RelativeToolTip": "EComm\\Views\\Order\\ShowCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:29:32.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "EComm\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "EComm\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:36:02.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "EComm\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\EComm\\EComm\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "EComm\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T18:44:07.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

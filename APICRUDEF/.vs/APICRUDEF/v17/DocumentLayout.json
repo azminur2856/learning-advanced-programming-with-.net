@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\APICRUDEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF944C7-D1B1-4A48-A9BB-4C84FF44B3A3}|APICRUDEF\\APICRUDEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\apicrudef\\apicrudef\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF944C7-D1B1-4A48-A9BB-4C84FF44B3A3}|APICRUDEF\\APICRUDEF.csproj|solutionrelative:apicrudef\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF944C7-D1B1-4A48-A9BB-4C84FF44B3A3}|APICRUDEF\\APICRUDEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\apicrudef\\apicrudef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF944C7-D1B1-4A48-A9BB-4C84FF44B3A3}|APICRUDEF\\APICRUDEF.csproj|solutionrelative:apicrudef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF944C7-D1B1-4A48-A9BB-4C84FF44B3A3}|APICRUDEF\\APICRUDEF.csproj|c:\\users\\azminur rahman\\desktop\\github\\learning-advanced-programming-with-.net\\apicrudef\\apicrudef\\ef\\studentmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7EF944C7-D1B1-4A48-A9BB-4C84FF44B3A3}|APICRUDEF\\APICRUDEF.csproj|solutionrelative:apicrudef\\ef\\studentmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\APICRUDEF\\APICRUDEF\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "APICRUDEF\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\APICRUDEF\\APICRUDEF\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "APICRUDEF\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T15:48:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\APICRUDEF\\APICRUDEF\\EF\\StudentModel.edmx",
+              "RelativeDocumentMoniker": "APICRUDEF\\EF\\StudentModel.edmx",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\APICRUDEF\\APICRUDEF\\EF\\StudentModel.edmx [Diagram1]",
+              "RelativeToolTip": "APICRUDEF\\EF\\StudentModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-30T14:56:51.5Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\APICRUDEF\\APICRUDEF\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "APICRUDEF\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\AZMINUR RAHMAN\\Desktop\\GitHub\\LEARNING-ADVANCED-PROGRAMMING-WITH-.NET\\APICRUDEF\\APICRUDEF\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "APICRUDEF\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T14:47:13.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Enroll";
+}
+
+<h2>Enroll</h2>
+
+<h2>Enroll in Sports</h2>
+<p>Select up to 2 sports to enroll in.</p>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+<form action="/Sports/Enroll" method="post">
+    <div class="form-group">
+        <label>Available Sports</label>
+        <br />
+        @foreach (var sport in Model)
+        {
+            <div class="form-check">
+                <input type="checkbox" name="Sports[]" value=@sport.Id /> @sport.Name
+            </div>
+        }
+    </div>
+    <input type="submit" value="Enroll" class="btn btn-primary" />
+</form>

@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "All Enrollments";
+}
+
+<h2>All Enrollments</h2>
+
+<p>All student enrollments and their current status.</p>
+
+@if (Model != null)
+{
+    <table class="table table-striped table-bordered">
+        <tr>
+            <th>Student Name</th>
+            <th>Sport Name</th>
+            <th>Enrollment Status</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Student.Name</td>
+                <td>@item.Sport.Name</td>
+                <td>@item.Status</td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <p>No enrollments have been found.</p>
+}
